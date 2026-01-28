@@ -1,78 +1,161 @@
-ClearPath Recovery Privacy Policy
+# ClearPath Recovery Privacy Policy
 
-Effective Date: January 27, 2026
+**Effective Date:** 01/27/2026
 
-ClearPath Recovery respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and share your information when you use the ClearPath Recovery mobile application (“App”).
+ClearPath Recovery (“we”) respects your privacy and is committed to protecting it. This Privacy Policy explains how we collect, use, store, and protect your information when you use the ClearPath Recovery mobile application and related services (the “App”).
 
-1. Information We Collect
+By using ClearPath Recovery, you agree to the practices described in this Privacy Policy.
 
-Personal Information
+---
 
-Email address
+## 1. Scope of This Policy
 
-Name (if provided)
+This Privacy Policy applies only to information collected through the ClearPath Recovery App and does not apply to third-party websites, services, or applications that may be linked within the App.
 
-User account identifiers
+ClearPath Recovery provides psychoeducational recovery support only and does not provide medical care, diagnosis, or treatment.
 
-Sensitive Personal Information
+---
 
-Recovery-related data, including sobriety date
+## 2. Information We Collect
 
-Responses to reflection questions and lesson progress
+### A. Information You Provide
 
-Authentication Data
+We may collect the following information when you use the App:
 
-Passwords are securely processed by our authentication provider (Supabase). We never store plaintext passwords.
+- Account information (email address, username, password)
+- Daily check-in responses (mood ratings, craving levels, substance use yes/no)
+- Lesson responses, reflections, and quiz answers
+- Voluntary notes or journal entries
+- Subscription and billing status (payment processing handled by third-party providers)
 
-Device & Usage Data
+You are not required to provide identifying personal information beyond what is necessary to create an account.
 
-App usage and progress tracking for personalized experience
+### B. Automatically Collected Information
 
-2. How We Use Your Information
+We may automatically collect limited technical data, including:
 
-We use your information to:
+- Device type and operating system
+- App usage data (lesson completion timestamps, session duration)
+- Anonymous analytics to improve app functionality
 
-Create and manage your account
+We do not collect precise GPS location data.
 
-Track your recovery progress and reflection answers
+---
 
-Provide personalized content and features
+## 3. What We Do NOT Collect
 
-Maintain app security
+ClearPath Recovery does not collect:
 
-Communicate account-related messages, such as password resets
+- Social Security numbers
+- Government ID numbers
+- Medical records or diagnoses
+- Clinical treatment notes
+- Biometric data
+- Contacts or address book data
 
-3. Data Storage and Security
+---
 
-Your data is stored securely using Supabase, our backend service. We use reasonable technical and organizational measures to protect your information from unauthorized access or disclosure.
+## 4. How We Use Your Information
 
-4. Sharing Your Information
+We use collected information solely to:
 
-We do not sell or rent your personal information.
-We may share your data with service providers (like Supabase) who help operate the App, but only as necessary and under strict confidentiality agreements.
+- Provide and operate the App
+- Track lesson completion and progress
+- Generate completion certificates and compliance reports
+- Improve app content and user experience
+- Respond to technical or support requests
 
-5. Your Rights
+We do not sell, rent, or trade your personal information.
 
-You have the right to:
+---
 
-Access, correct, or update your personal information
+## 5. Legal Basis & Court-Related Use
 
-Delete your account and data (account deletion can be requested within the App)
+If you voluntarily share completion reports with a court, probation officer, counselor, or treatment provider, such sharing is initiated by you. ClearPath Recovery does not automatically report user activity to courts, law enforcement, or third parties.
 
-Request export of your data
+Compliance reports include only:
 
-To exercise these rights, please contact us at terryd0612@gmail.com
-.
+- User name or ID
+- Dates of participation
+- Lessons completed
+- Time spent
 
-6. Children’s Privacy
+No personal reflections or journal entries are shared unless explicitly authorized by the user.
 
-The App is not directed at children under 13, and we do not knowingly collect information from children under 13.
+---
 
-7. Changes to this Privacy Policy
+## 6. Data Storage & Security
 
-We may update this Privacy Policy from time to time. Changes will be posted with an updated Effective Date.
+We take reasonable administrative, technical, and organizational measures to protect user data, including:
 
-8. Contact Us
+- Encrypted data transmission
+- Secure servers
+- Limited access controls
 
-For questions about this Privacy Policy, please contact us at:
-Email: terryd0612@gmail.com
+Despite these measures, no digital system is 100% secure. Users acknowledge and accept this risk.
+
+---
+
+## 7. Data Retention
+
+We retain user data only as long as necessary to:
+
+- Provide services
+- Meet legal or compliance requirements
+- Resolve disputes
+
+Users may request account deletion at any time. Upon deletion, identifiable data will be removed or anonymized unless retention is required by law.
+
+---
+
+## 8. User Rights
+
+Depending on your jurisdiction, you may have the right to:
+
+- Access your personal data
+- Request correction of inaccurate data
+- Request deletion of your data
+- Opt out of non-essential communications
+
+Requests can be submitted through in-app support or by emailing **[terryd0612@gmail.com](mailto:terryd0612@gmail.com)**.
+
+---
+
+## 9. Crisis & Safety Disclaimer
+
+ClearPath Recovery is not a crisis service. If you are experiencing a medical emergency or thoughts of self-harm or harm to others, please contact emergency services immediately or call/text 988 (U.S. Suicide & Crisis Lifeline).
+
+---
+
+## 10. Children’s Privacy
+
+The App is intended for users 18 years of age or older. We do not knowingly collect data from children under 18. If such data is discovered, it will be promptly deleted.
+
+---
+
+## 11. Third-Party Services
+
+Payment processing, analytics, and app hosting may be provided by third-party vendors who are contractually obligated to protect your data and use it only for authorized purposes. ClearPath Recovery is not responsible for the privacy practices of third-party services.
+
+---
+
+## 12. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Material changes will be communicated through the App or by email. Continued use of the App after changes constitutes acceptance of the updated policy.
+
+---
+
+## 13. Contact Information
+
+For privacy-related questions or requests, email: **[terryd0612@gmail.com](mailto:terryd0612@gmail.com)**.
+
+---
+
+## How to Delete Your Account
+
+1. Open the ClearPath Recovery App.
+2. Go to **Settings → Account → Delete Account**.
+3. Confirm deletion.
+4. Or email **[clearpathrecoveryapp@gmail.com](mailto:clearpathrecoveryapp@gmail.com)** for assistance.
+
+Once deletion is complete, your account, email, name, sobriety date, lesson progress, reflections, and any profile settings will be permanently removed. Some anonymized usage data may be retained for analytics purposes only.
